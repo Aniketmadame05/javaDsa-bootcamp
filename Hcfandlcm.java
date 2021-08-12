@@ -20,10 +20,10 @@ public class Hcfandlcm {
             temp2 = temp2 % temp1;
             temp1 = temp;
         }
-        hcf=temp1;
-        lcm=(num1*num2)/hcf;
+        hcf = temp1;
+        lcm = (num1 * num2) / hcf;
 
-        System.out.println("Lcm :"+lcm+"\n Hcf :" +hcf);
+        System.out.println("Lcm :" + lcm + "\n Hcf :" + hcf);
     }
 }
 
