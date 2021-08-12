@@ -8,7 +8,7 @@ public class Hcfandlcm {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter two Numbers");
+        System.out.println("Enter two Numbers");
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
         int temp, temp1, temp2, lcm, hcf;
