@@ -9,7 +9,7 @@ public class Primenum {
         int num=sc.nextInt();
         if(num<=1)
         {
-            System.out.println("nor prime Neither composite");
+            System.out.println("nor prime Neither Composite");
 
         }else {
             int i = 2;
